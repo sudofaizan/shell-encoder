@@ -28,3 +28,5 @@ Save the file and execute
 Done. That template file  is now your complete unreadable  shell script
 
 Regards t.me/mr_spidder
+For video tutorial click these link 
+https://youtu.be/ziL-jfbSEWo
